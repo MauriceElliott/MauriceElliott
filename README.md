@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **MauriceElliott/MauriceElliott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ### Hello, I'm Maurice Elliott
 
 I'm a software engineer, work in DevOps but follow all and every project I find mild interest in.
@@ -25,9 +22,4 @@ My favourite language at the moment is Swift so most new projects will be using 
 <br>
 
 ![MauriceElliott's Stats](https://github-readme-stats.vercel.app/api?username=MauriceElliott&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
-<br>
-<br>
-![MauriceElliott's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MauriceElliott&theme=gruvbox&hide_border=false)
-<br>
-<br>
 ![MauriceElliott's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauriceElliott&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
