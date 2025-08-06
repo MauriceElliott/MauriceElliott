@@ -21,4 +21,4 @@ My favourite language at the moment is Swift so most new projects will be using 
 
 <br>
 
-![MauriceElliott's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauriceElliott&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
+![MauriceElliott's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauriceElliott&theme=dracula&show_icons=true&hide_border=false&layout=compact)
