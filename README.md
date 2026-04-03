@@ -5,8 +5,7 @@
 
 ### Hello, I'm Maurice Elliott
 
-I'm a software engineer, work in DevOps but follow all and every project I find mild interest in.
+I'm a programmer, working in DevOps, but following all and every project I find interesting.
 
-I'm currently a busy father but try my best to spend a few evenings a week working on personal projects.
-
+[CodeDawa](https://www.codedawa.dev)
 <br>
