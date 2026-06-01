@@ -5,7 +5,7 @@
 
 I'm a programmer, working in DevOps.
 <br>
-I delight in simple, readable, defensive, brain dead code.
+I delight in simple, readable, brain dead code.
 <br>
 The kind of code you can parse with half a brain at 4am during a panicked outage.
 <br>
